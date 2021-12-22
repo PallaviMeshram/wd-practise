@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(to right,rgb(161, 212, 236),rgba(213, 219, 237, 0.4));
+    font-family: Helvetica, sans-serif;
+}
+#title{
+    color:rgb(126, 104, 8);
+}
+.subtitle{
+    color:rgb(212, 197, 59);
+}
