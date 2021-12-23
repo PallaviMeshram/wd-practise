@@ -3,6 +3,12 @@ body {
     font-family: Helvetica, sans-serif;
     text-align:justify;
     font-size:1.15em;
+    margin-left: 40px;
+}
+contact-section{
+    float:right;
+    margin-right: 100px;
+    
 }
 #title{
     color:rgb(126, 104, 8);
@@ -11,4 +17,24 @@ body {
 .subtitle{
     color:rgb(212, 197, 59);
     font-family: 'PT Sans', sans-serif;
+}
+#about-me-image{
+    float: right;
+    width:60vw;
+    margin: 0 100px 100px 100px;
+}
+textarea{
+    display:block;
+    margin:10px 0;
+}
+#email{
+    display: block;
+    margin:10px 0;
+}
+#image-2{
+    display:inline;
+    margin: 60px 0;
+}
+table tr td{
+    border:2px solid rgb(212, 197, 59);
 }
