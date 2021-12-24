@@ -7,8 +7,7 @@ body {
 }
 contact-section{
     float:right;
-    margin-right: 100px;
-    
+    margin-right: 100px;   
 }
 #title{
     color:rgb(126, 104, 8);
@@ -37,4 +36,22 @@ textarea{
 }
 table tr td{
     border:2px solid rgb(212, 197, 59);
+}
+
+.container-flex{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-item{
+    width: 70px;
+    background-color: gold;
+    line-height: 50px;
+    margin: 10px;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    
 }
